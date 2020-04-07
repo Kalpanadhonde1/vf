@@ -102,5 +102,4 @@ cv2.imshow("Image", image)
 cv2.waitKey(0)
 
 
-#This is just a comment for checking git 
-#Added new Line
+#line added
